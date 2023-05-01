@@ -6,3 +6,4 @@ Then you can choose who to play as "X" or "O".
 The move is selected by row and column number
 The AI follows the player's move
 After each move, the win condition is checked
+In the future, it will be possible to implement more intelligent AI
